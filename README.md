@@ -2,7 +2,7 @@
 NUUO NVR Remote command execution for video storage management devices
 
 ## Description
-PhpIPAM is an open source web IP address management application. Its goal is to provide a simple IP address management application. Phpipam has a default weak password, which can be exploited by attackers to obtain relevant information.
+NUUO NVR is a network video recorder owned by NUUO Corporation in Taiwan, China, China. The device has a remote command execution vulnerability, which can be used by an attacker to execute arbitrary commands, thereby obtaining the privileges of the server.
 
 ## installation
 > pip install -r requirements.txt
