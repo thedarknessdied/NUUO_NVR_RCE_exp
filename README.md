@@ -1,7 +1,7 @@
 # NUUO_NVR_RCE_exp
 NUUO NVR Remote command execution for video storage management devices
 
-## Attention:
+## Attention
 I have developed a tool for local testing and POC development, which is for technical learning reference only. Please do not use it for illegal purposes. Any direct or indirect consequences and losses caused by individuals or organizations using the information provided in this article are the responsibility of the user themselves and have nothing to do with the author!!!
 
 ## Description
