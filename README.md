@@ -9,7 +9,7 @@ I have developed a tool for local testing and POC development, which is for tech
 
 
 ## Description
-Lanling EIS, a simple and efficient work style, is a mobile office platform specifically designed for growth enterprises for communication, collaboration, and socializing, covering management needs such as OA, communication, customer, personnel, and knowledge
+NUUO NVR is a network video recorder owned by NUUO Corporation in Taiwan, China, China. The device has a remote command execution vulnerability, which can be used by an attacker to execute arbitrary commands, thereby obtaining the privileges of the server.
 
 ## installation
 > pip install -r requirements.txt
